@@ -8,3 +8,6 @@ ccguo.github.com
 
 
 https://github.com/ccguo/389878212.github.com/tree/master/images
+
+
+![389878212.github.com](https://github.com/ccguo/389878212.github.com/blob/master/images/IMG_20130406_122006.jpg)
